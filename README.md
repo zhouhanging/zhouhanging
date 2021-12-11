@@ -1,4 +1,4 @@
-### Hi there 👋
+> Hi there 👋
 
 - 🔭 I’m currently working on Earth
 - 🌱 I’m currently learning knowledge ...
@@ -8,5 +8,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-AND
+  
+> AND
 - This is just a note warehouse
