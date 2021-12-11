@@ -9,5 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-> AND
-- This is just a note warehouse
+> AND🎯
+
+- 🦄This is a pile of notes, a bit of notes, not that important
+- 👔study hard, improve every day
