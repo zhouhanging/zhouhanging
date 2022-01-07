@@ -1,5 +1,4 @@
 > Hi there 👋
-
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning  ...
 - 👯 I’m looking to collaborate on ...
@@ -8,9 +7,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+
+
 > AND🎯
 
 - 🦄This is a pile of notes, a bit of notes, not that important
 - 👔study hard, improve every day
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
