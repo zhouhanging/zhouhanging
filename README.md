@@ -1,7 +1,6 @@
 > Hi there 👋
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning  ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 my blog : https://zhouhang-hello.gitee.io/hexo_blog/
+- 🌱 I love coding in js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -9,7 +8,8 @@
 - ⚡ Fun fact: ...
 
 
-> AND🎯
+> 🎯
+> 
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
 
-- 🦄This is a pile of notes, a bit of notes, not that important
-- 👔study hard, improve every day
+👔study hard, improve every day
