@@ -12,4 +12,6 @@
 > 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
 
-👔study hard, improve every day
+> 👔
+> 
+study hard, improve every day
