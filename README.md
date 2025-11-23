@@ -1,5 +1,5 @@
 > Hi there 👋
-- 🔭 my blog : https://zhouhang-hello.gitee.io/hexo_blog/
+- 🔭 my blog : [https://zhouhang-hello.gitee.io/hexo_blog/](https://zhouhanging.github.io/)
 - 🌱 I love coding in js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
